@@ -1,4 +1,4 @@
-# MPatch
+# Match and Patch
 
 [![npm](https://img.shields.io/npm/v/mpatch.svg)](https://www.npmjs.com/package/mpatch)
 [![travis](https://img.shields.io/travis/arniu/mpatch.svg)](https://travis-ci.org/arniu/mpatch)
