@@ -42,7 +42,7 @@
   "bugs": "https://github.com/arniu/mpatch/issues",
   "homepage": "https://github.com/arniu/mpatch#readme",
   "dependencies": {
-    "glob": "^7.1.2"
+    "glob": "^7.1.4"
   },
   "devDependencies": {
     "husky": "^2.0.0",
