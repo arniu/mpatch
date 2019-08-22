@@ -49,6 +49,6 @@
     "lint-staged": "^9.0.0",
     "mocha": "^6.0.0",
     "prettier": "^1.10.2",
-    "standard": "^14.0.0"
+    "standard": "^14.0.1"
   }
 }
